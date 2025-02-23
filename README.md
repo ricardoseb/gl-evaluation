@@ -19,7 +19,7 @@ Este proyecto es un microservicio para la creación y consulta de usuarios desar
 
 1. Clonar el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/ricardoseb/gl-evaluation
 ```
 2. Ingresar a la raiz del directorio del proyecto:
 ```bash
